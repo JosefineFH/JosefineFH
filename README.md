@@ -5,7 +5,7 @@ My name is Josefine and i am from Norway.
 
 ## My Projects
 ### 🎮 Tech Camp
-This page is hosted on netlify. And is built with the framework Vue.
+This page is hosted on netlify. And is built with the framework Vue. There is no backend on this project. 
 
 [The code](https://github.com/JosefineFH/tech-camp)  |   [Live Demo](https://techcamp.netlify.app/)
 
