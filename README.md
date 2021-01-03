@@ -3,6 +3,12 @@ My name is Josefine and i am from Norway.
 
 👩‍💻 I’m currently working on my portfolio page or my homepage. Unfortunately, it is in Norwegian. But just run google transals on the page and get it in english. So [this is my homepage](https://josfineholth.tech/)
 
+## My Projects
+### 🎮 Tech Camp
+This page is hosted on netlify. And is built with the framework Vue.
+
+[The code](https://github.com/JosefineFH/tech-camp)  |   [Live Demo](https://techcamp.netlify.app/)
+
 <!--
 **JosefineFH/JosefineFH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
