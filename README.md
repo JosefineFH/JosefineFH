@@ -9,8 +9,8 @@ This page is hosted on netlify. And is built with the framework Vue. There is no
 
 [The code](https://github.com/JosefineFH/tech-camp)  |   [Live Demo](https://techcamp.netlify.app/)
 
-# 🎸School Projects
-### Guitar Kings
+# School Projects
+###🎸 Guitar Kings
 School project with just HTML and CSS
 
 [The Code](https://github.com/JosefineFH/Guitar_Kings)
