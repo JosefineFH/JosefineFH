@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Josefine and i am from Norway. 
 
-👩‍💻 I’m currently working on my portfolio page or my homepage. Unfortunately, it is in Norwegian. But just run google transals on the page and get it in english. So [this is my homepage](https://josfineholth.tech/).
+👩‍💻 I’m currently working on my portfolio page or my homepage. Unfortunately, it is in Norwegian. But just run google transals on the page and get it in english. So [this is my homepage](https://josfineholth.no/).
 
 ## My Projects
 ### ☕ The Tea Shop
