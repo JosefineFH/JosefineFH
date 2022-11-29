@@ -4,11 +4,6 @@ My name is Josefine and i am from Norway.
 👩‍💻 I’m currently working on my portfolio page or my homepage. Unfortunately, it is in Norwegian. But just run google transals on the page and get it in english. So [this is my homepage](https://josefineholth.no/).
 
 ## My Projects
-### ☕ The Tea Shop
-This is a project where i use React, Sass, Bootstrap and Wordpress / WooCommerce. 
-
-[The Code](https://github.com/JosefineFH/The-Tea-Shop) | [Live Demo - Not live yet]
-
 
 ### 🎮 Tech Camp
 This page is hosted on netlify. And is built with the framework Vue. There is no backend on this project. 
