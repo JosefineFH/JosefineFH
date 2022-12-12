@@ -5,12 +5,12 @@ My name is Josefine and i am from Norway.
 
 ## My Projects
 
-### 🎮 Tech Camp
-This page is hosted on netlify. And is built with the framework Vue. There is no backend on this project. 
-
-[The code](https://github.com/JosefineFH/tech-camp)  |   [Live Demo](https://techcamp.netlify.app/)
-
 # School Projects
+
+### 🎈 Unlimited Marketing
+This is a semester project for my second year of studying frontend development. The assignment is to create a e-commerce website that has a customer section and a admin section.  
+[Live page](https://semesterproject2.netlify.app/) | [The Code](https://github.com/JosefineFH/josefine-holth-semester-project-2) 
+
 ### 🛍 Rainyday
 
 This project went over different topics. From design to HTML & CSS, then to javascript and CMS. So it is a cross course project.
