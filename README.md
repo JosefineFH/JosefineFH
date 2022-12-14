@@ -7,7 +7,7 @@ My name is Josefine and i am from Norway.
 
 # School Projects
 
-### 🎈 Unlimited Marketing
+### 🎈 Unlimited Marketing - Semester Project 2
 This is a semester project for my second year of studying frontend development. The assignment is to create a e-commerce website that has a customer section and a admin section.  
 [Live page](https://semesterproject2.netlify.app/) | [The Code](https://github.com/JosefineFH/josefine-holth-semester-project-2) 
 
