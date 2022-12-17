@@ -11,6 +11,11 @@ My name is Josefine and i am from Norway.
 This is a semester project for my second year of studying frontend development. The assignment is to create a e-commerce website that has a customer section and a admin section.  
 [Live page](https://semesterproject2.netlify.app/) | [The Code](https://github.com/JosefineFH/josefine-holth-semester-project-2) 
 
+### 💻 Simple Blog - JavaScript Frameworks CA
+This is a JavaScript Frameworks course assigment for my second year of studying frontend devlopment. This assigment was to make a React or next.js app. With using WordPress JWT plugin.
+
+[Live page](https://cerulean-halva-9adc96.netlify.app/) | [The Code](https://github.com/JosefineFH/josefine-holth-semester-project-2) 
+
 ### 🛍 Rainyday
 
 This project went over different topics. From design to HTML & CSS, then to javascript and CMS. So it is a cross course project.
