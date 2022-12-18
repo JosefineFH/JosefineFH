@@ -1,7 +1,11 @@
 ### Hi there 👋
-My name is Josefine and i am from Norway. 
+My name is Josefine and i am a frontend developer from Norway. 
 
-👩‍💻 I’m currently working on my portfolio page or my homepage. Unfortunately, it is in Norwegian. But just run google transals on the page and get it in english. So [this is my homepage](https://josefineholth.no/).
+
+
+👩‍💻 I’m currently as a Wordpress developer at an Norwigen company. 
+
+[this is my homepage](https://josefineholth.no/).
 
 # My Projects
 
