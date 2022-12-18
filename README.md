@@ -1,6 +1,23 @@
 ### Hi there 👋
 My name is Josefine and i am a frontend developer from Norway. 
 
+## 🗂️ My Skills
+- HTML
+- CSS and SCSS
+- JavaScript
+- React 
+- Bootstrap
+- Wordpress
+
+## ⚒️ Tools
+- Photoshop
+- Lightroom
+- Wordpress as an CMS and using it as an REST API
+- Strapi (headless CMS system)
+- Adobe XD
+- UX/UI
+- Webdesign
+- Git (Github and Gitlab)
 
 
 👩‍💻 I’m currently as a Wordpress developer at an Norwigen company. 
