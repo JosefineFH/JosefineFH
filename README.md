@@ -3,12 +3,18 @@ My name is Josefine and i am from Norway.
 
 👩‍💻 I’m currently working on my portfolio page or my homepage. Unfortunately, it is in Norwegian. But just run google transals on the page and get it in english. So [this is my homepage](https://josefineholth.no/).
 
-## My Projects
+# My Projects
 
 # School Projects
 
+### 👩🏼‍💻 Soical Media App - Project Exam 2
+This is a project exam for my last year studing frontend devleopemt. The assigment is to creat an socia media app for a social media comapny and it is for only noroff school students. 
+
+[Live page](https://helpful-panda-469815.netlify.app/) | [The Code](https://github.com/JosefineFH/social_media_app)
+
 ### 🎈 Unlimited Marketing - Semester Project 2
 This is a semester project for my second year of studying frontend development. The assignment is to create a e-commerce website that has a customer section and a admin section.  
+
 [Live page](https://semesterproject2.netlify.app/) | [The Code](https://github.com/JosefineFH/josefine-holth-semester-project-2) 
 
 ### 💻 Simple Blog - JavaScript Frameworks CA
